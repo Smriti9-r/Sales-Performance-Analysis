@@ -40,6 +40,7 @@ The dataset includes:
 ## Files in Repository
 Sales_Data_Analysis_Python.ipynb  
 Sales_Data_Analysis_SQL.ipynb  
+Sales_Dashboard.ipynb
 SampleSuperstore.csv  
 
 ## Author
